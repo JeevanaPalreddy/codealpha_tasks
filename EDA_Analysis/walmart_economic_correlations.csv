@@ -1,0 +1,5 @@
+Factor,Correlation_with_Sales,Factor_Mean,Factor_StdDev
+Temperature,-0.064,60.664,18.445
+Fuel_Price,0.009,3.359,0.459
+CPI,-0.073,171.578,39.357
+Unemployment,-0.106,7.999,1.876
